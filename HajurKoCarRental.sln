@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HajurKoCarRental", "HajurKoCarRental.csproj", "{1F4AB816-424D-406F-B94E-783E1E5A9D38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajurKoCarRentalApp.Client", "..\HajurKoCarRentalApp\Client\HajurKoCarRentalApp.Client.csproj", "{24A94388-9C97-4287-A243-0EA61580CEDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajurKoCarRentalApp", "..\HajurKoCarRentalApp\Client\HajurKoCarRentalApp.csproj", "{9EBC3753-0BD0-47F2-9AED-9537FD6F298E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajurKoCarRentalApp.Server", "..\HajurKoCarRentalApp\Server\HajurKoCarRentalApp.Server.csproj", "{D5AC3C45-6363-4C7B-AF25-5144D1054F56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HajurKoCarRentalApp.Shared", "..\HajurKoCarRentalApp\Shared\HajurKoCarRentalApp.Shared.csproj", "{E66A62E8-6BF6-49CA-89AD-596EB394E556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F4AB816-424D-406F-B94E-783E1E5A9D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4AB816-424D-406F-B94E-783E1E5A9D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4AB816-424D-406F-B94E-783E1E5A9D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4AB816-424D-406F-B94E-783E1E5A9D38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24A94388-9C97-4287-A243-0EA61580CEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24A94388-9C97-4287-A243-0EA61580CEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24A94388-9C97-4287-A243-0EA61580CEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24A94388-9C97-4287-A243-0EA61580CEDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EBC3753-0BD0-47F2-9AED-9537FD6F298E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EBC3753-0BD0-47F2-9AED-9537FD6F298E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EBC3753-0BD0-47F2-9AED-9537FD6F298E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EBC3753-0BD0-47F2-9AED-9537FD6F298E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5AC3C45-6363-4C7B-AF25-5144D1054F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5AC3C45-6363-4C7B-AF25-5144D1054F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5AC3C45-6363-4C7B-AF25-5144D1054F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5AC3C45-6363-4C7B-AF25-5144D1054F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66A62E8-6BF6-49CA-89AD-596EB394E556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66A62E8-6BF6-49CA-89AD-596EB394E556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66A62E8-6BF6-49CA-89AD-596EB394E556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66A62E8-6BF6-49CA-89AD-596EB394E556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95FD6969-3556-4613-88A6-B29D374E843B}
+	EndGlobalSection
+EndGlobal
